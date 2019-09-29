@@ -1,3 +1,0 @@
-model_checkpoint_path: "/home/laurie/tensorflow/models/ssd_mobilenet_v1_coco_2018_01_28/train/model.ckpt-112"
-all_model_checkpoint_paths: "/home/laurie/tensorflow/models/ssd_mobilenet_v1_coco_2018_01_28/train/model.ckpt-0"
-all_model_checkpoint_paths: "/home/laurie/tensorflow/models/ssd_mobilenet_v1_coco_2018_01_28/train/model.ckpt-112"
